@@ -29,3 +29,4 @@ This Eclipse-ready Java project simulates GPS producers in multiple formats, con
 - Database connection details are defined in `db.DatabaseLogger`.
 - Producers publish to a direct exchange `location` with routing keys `KML`, `GeoJSON`, and `TransIAPCSV`.
 - The middleware publishes unified JSON to the fanout exchange `traslados.localizaciones`.
+- The project is configured to rely only on the JARs provided in `lib/`; no additional dependencies are required.

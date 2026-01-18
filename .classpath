@@ -5,9 +5,5 @@
 	<classpathentry kind="lib" path="lib/cliente_http.jar"/>
 	<classpathentry kind="lib" path="lib/STC-DAO.jar"/>
 	<classpathentry kind="lib" path="lib/mysql-connector-java.jar"/>
-	<classpathentry kind="lib" path="lib/junit-jupiter-api.jar"/>
-	<classpathentry kind="lib" path="lib/junit-jupiter-engine.jar"/>
-	<classpathentry kind="lib" path="lib/apiguardian-api.jar"/>
-	<classpathentry kind="lib" path="lib/opentest4j.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
